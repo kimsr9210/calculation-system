@@ -8,6 +8,7 @@ public class LeaveCalculationSystemApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LeaveCalculationSystemApplication.class, args);
+        //테스트
     }
 
 }
